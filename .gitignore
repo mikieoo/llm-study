@@ -1,0 +1,15 @@
+# Python
+.venv/
+__pycache__/
+*.pyc
+
+# Jupyter
+.ipynb_checkpoints/
+
+# 학습 결과물 (모델 가중치 등)
+*.pt
+*.pth
+checkpoints/
+
+# macOS
+.DS_Store
