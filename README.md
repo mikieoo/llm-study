@@ -17,5 +17,5 @@ LLM / Transformer를 기초부터 공부하고, 마지막에 PyTorch로 mini GPT
 
 ```bash
 uv venv --python 3.12 .venv
-uv pip install --python .venv/bin/python torch numpy jupyter ipykernel
+uv pip install --python .venv/bin/python torch numpy matplotlib jupyter ipykernel
 ```
