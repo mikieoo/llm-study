@@ -8,8 +8,8 @@ LLM / Transformer를 기초부터 공부하고, 마지막에 PyTorch로 mini GPT
 
 | 주차 | 내용 | 상태 |
 |---|---|---|
-| 1주 | 딥러닝 최소 기초 | 진행 중 |
-| 2주 | NLP 기초 + Attention | |
+| 1주 | 딥러닝 최소 기초 | 완료 |
+| 2주 | NLP 기초 + Attention | 진행 중 |
 | 3주 | Transformer + GPT | |
 | 4주 | mini GPT 구현 | |
 
@@ -17,5 +17,5 @@ LLM / Transformer를 기초부터 공부하고, 마지막에 PyTorch로 mini GPT
 
 ```bash
 uv venv --python 3.12 .venv
-uv pip install --python .venv/bin/python torch numpy matplotlib jupyter ipykernel
+uv pip install --python .venv/bin/python torch numpy matplotlib tiktoken jupyter ipykernel
 ```
