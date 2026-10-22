@@ -10,8 +10,8 @@ LLM / Transformer를 기초부터 공부하고, 마지막에 PyTorch로 mini GPT
 |---|---|---|
 | 1주 | 딥러닝 최소 기초 | 완료 |
 | 2주 | NLP 기초 + Attention | 완료 |
-| 3주 | Transformer + GPT | 진행 중 |
-| 4주 | mini GPT 구현 | |
+| 3주 | Transformer + GPT | 완료 |
+| 4주 | mini GPT 구현 | 진행 중 |
 
 ## 환경 세팅
 
