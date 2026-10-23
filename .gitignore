@@ -13,3 +13,7 @@ checkpoints/
 
 # macOS
 .DS_Store
+
+# 4주차 학습 결과물, 테스트 캐시
+week4/out/
+.pytest_cache/
